@@ -1,0 +1,6 @@
+token= NTUxNDk3OTgwOTQ4MjUwNjI2.D1x2Nw.c74kqxK-e-75pzFlod64kI7tnYs
+owner= 515307827196067840
+prefix= 4
+game= Lord | 4play
+stayinchannel= true
+songinstatus= true
